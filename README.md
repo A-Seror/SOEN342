@@ -12,7 +12,6 @@ Personalized match recommendations
  * In-app messaging system
  * Photo and profile verification
  * User-defined preferences and interests
- * AI-powered match suggestions
  * Multilingual support
 
 
