@@ -1,8 +1,9 @@
 # SOEN342
+
 ## Project Description
 Your Project description goes here
 
-## features
+## features of the app
 Features of the platform
 
 ## Team Members
