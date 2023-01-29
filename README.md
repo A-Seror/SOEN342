@@ -6,7 +6,18 @@ Dating App's name: OneTouch.
 Onetouch is a modern dating app designed to connect people looking for meaningful relationships. It matches users based on their preferences and interests. Users can swipe right or left to indicate their interest in potential matches, and if both users swipe right, they can start chatting.
 
 ## features of the app
-Features of the platform
+
+Swipe-based matchmaking
+Personalized match recommendations
+ * In-app messaging system
+ * Photo and profile verification
+ * User-defined preferences and interests
+ * AI-powered match suggestions
+ * Multilingual support
+
+
+One touch offers various features to enhance the user experience and increase the chances of finding a compatible match. It has a user-friendly interface and a smart algorithm that suggests matches based on users' preferences and interests. The app also has a built-in messaging system and photo and profile verification to ensure authenticity and safety. Additionally, it supports multiple languages, making it accessible to a wider audience.
+
 
 ## Team Members
 | Name | Github | ID | 
