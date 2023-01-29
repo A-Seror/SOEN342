@@ -1,7 +1,9 @@
 # SOEN342
 
 ## Project Description
-Your Project description goes here
+Dating App name: OneTouch. 
+
+Onetouch is a modern dating app designed to connect people looking for meaningful relationships. It matches users based on their preferences and interests. Users can swipe right or left to indicate their interest in potential matches, and if both users swipe right, they can start chatting.
 
 ## features of the app
 Features of the platform
