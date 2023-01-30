@@ -15,7 +15,8 @@ Personalized match recommendations
  * Multilingual support
 
 
-One touch offers various features to enhance the user experience and increase the chances of finding a compatible match. It has a user-friendly interface and a smart algorithm that suggests matches based on users' preferences and interests. The app also has a built-in messaging system and photo and profile verification to ensure authenticity and safety. Additionally, it supports multiple languages, making it accessible to a wider audience.
+One touch offers various features to enhance the user experience and increase the chances of finding a compatible match. It has a user-friendly interface and a smart algorithm that suggests matches based on users' preferences and interests. It uses a combination of location-based matching and user-generated profiles to make dating 
+easy and accessible for everyone. The app also has a built-in messaging system and photo and profile verification to ensure authenticity and safety. Additionally, it supports multiple languages, making it accessible to a wider audience.
 
 
 ## Team Members
